@@ -3,7 +3,7 @@ Flask-Login==0.4.0
 Flask-Session==0.3.1
 flask-socketio
 itsdangerous==0.24
-Jinja2==2.7.3
+Jinja2==2.11.3
 MarkupSafe==0.23
 python-engineio
 python-socketio
